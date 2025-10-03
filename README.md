@@ -19,10 +19,7 @@ Swipe Interview Assistant is a **React-based AI-powered interview platform**. Ca
 <img src="./screenshot/Screenshot%202025-10-03%20172608.png" alt="Resume Upload" width="250" />
 
 
-Screenshot 2025-10-03 172552.png
-Add files via upload
-now
-Screenshot 2025-10-03 172608.png
+
 </div>
 
 
