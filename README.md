@@ -11,7 +11,7 @@ Swipe Interview Assistant is a **React-based AI-powered interview platform**. Ca
 ## 📸 Screenshots
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
+<img src="./screenshot/Screenshot%202025-10-03%20171711.png" alt="Resume Upload" width="250" />
 <img src="./screenshot/Screenshot%202025-10-03%20171730.png" alt="Interviewee Chat" width="250" />
 <img src="./screenshot/Screenshot%202025-10-03%20171757.png" alt="Interviewer Dashboard" width="250" />
 <img src="./screenshot/Screenshot%202025-10-03%20171811.png" alt="Resume Upload" width="250" />
