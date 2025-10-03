@@ -2,6 +2,10 @@
 Swipe Interview Assistant is a React-based AI-powered interview platform. Candidates upload resumes (PDF/DOCX), missing details are collected via chatbot, and AI conducts a timed full-stack interview. Interviewers view scores, profiles, chat history, and summaries. Progress persists locally with pause/resume support.
 
 # 🌟 Swipe Interview Assistant
+<img src="./screenshots/chat.png" alt="Interviewee Chat" width="200" />
+<img src="./screenshots/dashboard.png" alt="Interviewer Dashboard" width="200" />
+<img src="./screenshots/resume-upload.png" alt="Resume Upload" width="200" />
+<img src="./screenshots/ai-summary.png" alt="AI Summary" width="200" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![React](https://img.shields.io/badge/React-17.0.2-blue.svg)](https://reactjs.org/)  
